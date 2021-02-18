@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "f1bad1db814c17841be04d2d63e01102",
-    "url": "/static/media/041-share.f1bad1db.svg"
+    "revision": "8750602936da233cc782",
+    "url": "/static/css/main.f347af3c.chunk.css"
   },
   {
-    "revision": "b3b3e0a97178396eaaab",
-    "url": "/static/css/main.d8752fbf.chunk.css"
+    "revision": "8750602936da233cc782",
+    "url": "/static/js/main.87506029.chunk.js"
   },
   {
-    "revision": "c0dd4437220d3ac3d726",
-    "url": "/static/js/1.c0dd4437.chunk.js"
+    "revision": "5b91f1db0147fa19077d",
+    "url": "/static/js/1.5b91f1db.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/static/media/034-notebook.adc9663d.svg"
   },
   {
-    "revision": "b3b3e0a97178396eaaab",
-    "url": "/static/js/main.b3b3e0a9.chunk.js"
+    "revision": "f1bad1db814c17841be04d2d63e01102",
+    "url": "/static/media/041-share.f1bad1db.svg"
   },
   {
     "revision": "9320d8f4ff0d8c010bfd0c2fb4ecb8d7",
@@ -132,8 +132,8 @@ self.__precacheManifest = [
     "url": "/static/media/GraphQL_Logo.5bf8a3ca.svg"
   },
   {
-    "revision": "2b002415248676d3e0d101596dd70bcd",
-    "url": "/static/media/apollo-client.2b002415.svg"
+    "revision": "69b010268481c2d898aaabaa933da0a1",
+    "url": "/static/media/apollo-client.69b01026.svg"
   },
   {
     "revision": "89ccb09060a7adf788ea2340c54d6d78",
@@ -144,8 +144,8 @@ self.__precacheManifest = [
     "url": "/static/media/freepik.1a1e8e97.svg"
   },
   {
-    "revision": "2e013d7501cea345c15e0ed7b6531464",
-    "url": "/static/media/flaticon-logo.2e013d75.svg"
+    "revision": "82d7e35ad60bcff66cc19463ea6a1610",
+    "url": "/static/media/flaticon-logo.82d7e35a.svg"
   },
   {
     "revision": "259e1339a21cf9a16881f722296cb704",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/static/media/marshall-goldsmith-2-min.c7b566fb.jpeg"
   },
   {
-    "revision": "df0505e136b04a97d712042d21825af3",
+    "revision": "3fc9cc8eb0b98b8c8c01a0a1fc9e1042",
     "url": "/index.html"
   }
 ];
